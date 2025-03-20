@@ -72,11 +72,11 @@ z \\
 \end{bmatrix}
 $$
 
-$$\begin{aligned}
+$$
 I_4 = \begin{pmatrix}
 1 & 0 & 0 & 0 \
 0 & 1 & 0 & 0 \
 0 & 0 & 1 & 0 \
 0 & 0 & 0 & 1
 \end{pmatrix}
-\end{aligned}$$
+$$
