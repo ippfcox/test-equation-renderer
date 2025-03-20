@@ -50,9 +50,6 @@ $$
 0 & 0 & 1 & 0 \\
 0 & 0 & -\frac{1}{c} & 1 \\
 \end{bmatrix}
-$$
-
-
 \cdot
 \begin{bmatrix}
 x \\
@@ -60,6 +57,8 @@ y \\
 z \\
 1 \\
 \end{bmatrix}
+$$
+
 =
 \begin{bmatrix}
 x \\
