@@ -63,7 +63,14 @@ rz+1 \\
 \end{bmatrix}
 $$
 
-转回三维空间中，即 $\begin{bmatrix}\frac{x}{rz+1}\\\frac{y}{rz+1}\\\frac{z}{rz+1}\\\end{bmatrix}$
+转回三维空间中，即
+$$
+\begin{bmatrix}
+\frac{x}{rz+1} \\
+\frac{y}{rz+1} \\
+\frac{z}{rz+1} \\
+\end{bmatrix}
+$$
 
 现在再看另一边，相机位于 $C(0,0,c)$ ，一个点 $P(x,y,z)$ ，它在 $z=0$ 平面上的投影为 $P'(x',y',z')$ ，另定义：点 $P$ 在 $y=0$ 平面的投影点为 $B(x,0,z)$ ，在$z$轴上的投影为 $A(0,0,z)$ ，点 $P'$ 在 $x$ 轴的投影为 $D(x',0,0)$ ，在 $y$ 轴上的投影为 $E(0,y',0)$
 
