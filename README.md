@@ -8,7 +8,7 @@
 
 现在还有另一个现象，在二维空间的剪裁变换上，原来的点，经过 $\begin{bmatrix}1 & 0 & 0 \\ 0 & 1 & 0 \\ -\frac{1}{5} & 0 & 1 \end{bmatrix}$ 这个变换后，向点 $(5, 0)$ 的投影是不变的，这说明，当我们选取合适的剪切变换矩阵时，可以直接得到相应的投影
 
-在三维空间中，点 $P(x, y, z)$ 写成列向量形式： $\begin{bmatrix}x\\y\\z\end{bmatrix}$ ，添加齐次坐标升维到四维空间，即 $\begin{bmatrix}x \\ y \\ z \\ 1\end{bmatrix}$ ，现在对它进行如下剪裁变换：
+在三维空间中，点 $P(x, y, z)$ 写成列向量形式： $$\begin{bmatrix}x\\y\\z\end{bmatrix}$$ ，添加齐次坐标升维到四维空间，即 $\begin{bmatrix}x \\ y \\ z \\ 1\end{bmatrix}$ ，现在对它进行如下剪裁变换：
 
 $$
 \begin{bmatrix}
