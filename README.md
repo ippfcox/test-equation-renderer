@@ -28,7 +28,18 @@ z \\
 \end{bmatrix}
 $$
 
-添加齐次坐标升维到四维空间，即 $\begin{bmatrix}x \\ y \\ z \\ 1\end{bmatrix}$ ，现在对它进行如下剪裁变换：
+添加齐次坐标升维到四维空间，即
+
+$$
+\begin{bmatrix}
+x \\
+y \\
+z \\
+1 \\
+\end{bmatrix}
+$$
+
+现在对它进行如下剪裁变换：
 
 $$
 \begin{bmatrix}
