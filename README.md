@@ -23,8 +23,7 @@ x \\
 y \\
 z \\
 1 \\
-\end{bmatrix}
-=
+\end{bmatrix}=
 \begin{bmatrix}
 x \\
 y \\
@@ -68,14 +67,5 @@ z \\
 \frac{x}{1-\frac{z}{c}} \\
 \frac{y}{1-\frac{z}{c}} \\
 \frac{z}{1-\frac{z}{c}} \\
-\end{bmatrix}
-$$
-
-$$
-I_4 = \begin{bmatrix}
-1 & 0 & 0 & 0 \\
-0 & 1 & 0 & 0 \\
-0 & 0 & 1 & 0 \\
-0 & 0 & 0 & 1
 \end{bmatrix}
 $$
