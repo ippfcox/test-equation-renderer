@@ -63,9 +63,6 @@ y \\
 z \\
 1-\frac{z}{c} \\
 \end{bmatrix}
-$$
-
-$$
 \rightarrow
 \begin{bmatrix}
 \frac{x}{1-\frac{z}{c}} \\
