@@ -57,7 +57,6 @@ y \\
 z \\
 1 \\
 \end{bmatrix}
-=
 \begin{bmatrix}
 x \\
 y \\
